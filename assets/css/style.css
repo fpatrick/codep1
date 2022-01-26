@@ -136,6 +136,14 @@ hr {
     color: rgb(94, 233, 94);
 }
 
+#credit{
+    float: right;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-right: 10px;
+    color: rgba(255, 255, 255, 0.432);
+}
+
 /* Footer */
 
 footer {
