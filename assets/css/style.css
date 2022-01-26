@@ -27,11 +27,11 @@ body {
 #stitle {
 
     height: 30px;
-    width: 350px;
+    width: 300px;
     padding: 10px;
-    
     margin: auto;
-    background-color: rgba(0, 0, 0, 0.377);
+    background-color: #141f10c7;
+    border-radius: 25px;
 }
 
 /* navigation links */
@@ -74,13 +74,15 @@ body {
 /* benefits */
 
 #hBenefits {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.445);
     letter-spacing: 2px;
+    color: rgba(255, 255, 255, 0.91);
 }
 
 #pBenefits {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #c5c5c5;
+    letter-spacing: 1px;
 }
 
 #benefits {
@@ -89,15 +91,70 @@ body {
 
 #leftBenefits {
     padding-top: 30px;
+    padding-left: 10px;
     float: left;
-    padding-left: 25%;
-    width: 25%;
-    background-color: red;
+    width: 33%;
 }
 
 #rightBenefits {
     padding-top: 30px;
     float: right;
+    width: 33%;
+    padding-right: 10px;
+}
+
+#centerBenefits {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
+}
+hr {
+    border-top: 2px solid #ffffff17;
+    width: 100%;
+    margin: 5px 0;
+    display: block;
+    width: 675px;
+    margin:auto
+}
+
+#benefits ul {
+    list-style: none;
+    text-transform: uppercase;
+}
+
+#benefits li {
+    margin: 10px;
+    padding: 4%;
+    /* padding-right: 5px; */
+    background-color: #141f1077;
+    border-radius: 25px;
+    text-align: justify;
+
+}
+
+.far {
+    color: rgb(94, 233, 94);
+}
+
+/* Footer */
+
+footer {
+    height: 150px;
+    width:100%;
+    background-color: rgb(31, 31, 31);
+    margin-top: 100px;
+}
+
+#leftFooter {
+    float: left;
     width: 50%;
-    background-color: blue;
+    padding-left: 50px;
+    padding-top: 50px;
+    color: rgba(255, 255, 255, 0.479);
+}
+#rightFooter {
+    float: right;
+    padding-right: 50px;
+    padding-top: 50px;
+    color: rgba(255, 255, 255, 0.479);
 }
