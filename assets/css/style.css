@@ -125,11 +125,10 @@ hr {
 #benefits li {
     margin: 10px;
     padding: 4%;
-    /* padding-right: 5px; */
     background-color: #141f1077;
     border-radius: 25px;
     text-align: justify;
-
+    height: 40px;
 }
 
 .far {
