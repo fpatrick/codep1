@@ -36,24 +36,24 @@ body {
 
 /* navigation links */
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 4px;
     line-height: 75px;
     
 }
-#menu li {
+.menu li {
     float: left;
     list-style-type: none;
     margin-left: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid white;
 }
 
@@ -86,7 +86,9 @@ body {
 }
 
 #benefits {
-    padding-top: 20px;;
+    padding-top: 20px;
+    padding-bottom: 80px;
+
 }
 
 #leftBenefits {
@@ -123,6 +125,7 @@ hr {
 }
 
 #benefits li {
+    letter-spacing: 1px;
     margin: 10px;
     padding: 4%;
     background-color: #141f1077;
@@ -141,6 +144,14 @@ hr {
     padding-top: 20px;
     padding-right: 10px;
     color: rgba(255, 255, 255, 0.432);
+}
+
+/* Discover */
+
+#discoverMenu {
+    display: table;
+    margin: 0 auto;
+    float: none;
 }
 
 /* Footer */
