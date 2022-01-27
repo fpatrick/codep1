@@ -134,7 +134,13 @@ hr {
     height: 40px;
 }
 
+/* Font awesome */
+
 .far {
+    color: rgb(94, 233, 94);
+}
+
+.fas {
     color: rgb(94, 233, 94);
 }
 
@@ -175,4 +181,55 @@ footer {
     padding-right: 50px;
     padding-top: 50px;
     color: rgba(255, 255, 255, 0.479);
+}
+
+/* counties */
+
+.article {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.left {
+    margin-left: 50px;
+}
+
+.right {
+    margin-right: 50px;
+}
+
+.backgroundImg {
+    padding: 0 0 30px 30px;
+  }
+
+.img {
+    width: 40%;
+    height: auto;
+}
+  
+.backgroundImg .img {
+    display: inline-block;
+    box-shadow: -30px 30px 0 rgb(20, 31, 16);
+}
+
+.backgroundImgRight .img {
+    display: inline-block;
+    box-shadow: 30px 30px 0 rgb(20, 31, 16);
+    float: right;
+    
+}
+
+.leftInfo {
+    float: right;
+    margin-right: 20px;;
+}
+
+.rightInfo {
+    float: left;
+    margin-left: 20px;;
+}
+
+
+.info {
+    margin-bottom: 10px;
 }
