@@ -1,5 +1,8 @@
 # In naturE
 
+in nature = be in nature.
+Ix xxxxxE = IE (Ireland)
+
 Many people living in Ireland don't know how many breathtaking nature places the island have. Or don't even look at it, because it may sound difficult?
 
 Like myself, many are connected all the time, living a digital life, being sedentary. But what if everyone knew how easy and accessible is he nature, the trails. How good it feels, how much their health can improve. So thats the website, a gallery of easy places to go made by a senderary digital person.
