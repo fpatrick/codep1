@@ -12,7 +12,7 @@ body {
     background-color: #20321e;
 }
 
-h1, h2, h3{
+h1, h2, h3, b, strong{
     font-family: 'Playfair Display', serif;
 }
 
@@ -187,7 +187,16 @@ footer {
     color: rgba(255, 255, 255, 0.479);
 }
 
+.fa-envelope {
+    color: rgba(255, 255, 255, 0.479);
+}
+
 /* counties */
+
+#pageTitle {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
 
 .article {
     margin-top: 50px;
@@ -207,7 +216,7 @@ footer {
   }
 
 .img {
-    width: 40%;
+    width: 45%;
     height: auto;
 }
   
@@ -219,21 +228,36 @@ footer {
 .backgroundImgRight .img {
     display: inline-block;
     box-shadow: 30px 30px 0 rgb(20, 31, 16);
-    float: right;
     
 }
 
 .leftInfo {
     float: right;
-    margin-right: 20px;;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-color: rgba(20, 31, 16, 0.308);
+    border-radius: 25px;
 }
 
 .rightInfo {
     float: left;
-    margin-left: 20px;;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    background-color: rgba(20, 31, 16, 0.308);
+    border-radius: 25px;
+    width: 50%
 }
 
 
 .info {
     margin-bottom: 10px;
+}
+
+.mapLink {
+    color:#deccae;
 }
