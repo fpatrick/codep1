@@ -267,6 +267,10 @@ footer {
 /* screens below 1100px */
 
 @media screen and (max-width: 1100px) {
+    #pageTitle {
+
+        margin-top: 100px
+    }
     .img {
         width: 95%;
         margin: 0;
@@ -307,4 +311,6 @@ footer {
         width: 90%;
         margin: 0;
     }
+
+
 }
