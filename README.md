@@ -1,6 +1,7 @@
 # In naturE
 
 in nature = be in nature.
+
 Ix xxxxxE = IE (Ireland)
 
 Many people living in Ireland don't know how many breathtaking nature places the island have. Or don't even look at it, because it may sound difficult?
