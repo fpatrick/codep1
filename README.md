@@ -63,7 +63,7 @@ In the real mobile test it had a bug where the right side had a big empty space.
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]https://validator.w3.org/nu/?doc=https%3A%2F%2Ffpatrick.github.io%2Fcodep1%2F)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffpatrick.github.io%2Fcodep1%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffpatrick.github.io%2Fcodep1&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
@@ -87,5 +87,5 @@ The live link can be found here - https://fpatrick.github.io/codep1/
 ### Content 
 
 - Mental health benefits text for the home page was taken from https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/
-- Some informattions about trails was taken from alltrails.com
+- Some informattions about trails was taken from https://.alltrails.com
 - All the icons were taken from [Font Awesome](https://fontawesome.com/)
