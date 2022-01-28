@@ -203,17 +203,15 @@ footer {
     margin-bottom: 50px;
 }
 
-.left {
+#articleLeft {
     margin-left: 50px;
 }
 
-.right {
+#articleRight {
     margin-right: 50px;
 }
 
-.backgroundImg {
-    padding: 0 0 30px 30px;
-  }
+
 
 .img {
     width: 45%;
@@ -235,10 +233,11 @@ footer {
     float: right;
     margin-right: 10px;
     padding: 10px;
-    padding-left: 50px;
+    padding-left: 20px;
     padding-bottom: 50px;
     background-color: rgba(20, 31, 16, 0.308);
     border-radius: 25px;
+    width: 50%
 }
 
 .rightInfo {
@@ -260,4 +259,52 @@ footer {
 
 .mapLink {
     color:#deccae;
+}
+
+
+/* Media queries */
+
+/* screens below 1100px */
+
+@media screen and (max-width: 1100px) {
+    .img {
+        width: 95%;
+        margin: 0;
+        margin-top: 30px;
+    }
+
+    .backgroundImg, .backgroundImgRight {
+        margin-left: 30px;
+    }
+
+    #articleRight, #articleLeft {
+        margin: 0;
+    }
+
+    .leftInfo, .rightInfo {
+        width: 100%;
+        margin: 0;
+        margin-top: 30px;
+        float: none;
+    }
+
+}
+
+/* screens below 700px */
+
+@media screen and (max-width: 700px) {
+    #leftBenefits {
+        width: 90%;
+        float: none;
+        margin: 0;
+    }
+    #rightBenefits {
+        width: 90%;
+        float: none;
+        margin: 0;
+    }
+    #centerBenefits {
+        width: 90%;
+        margin: 0;
+    }
 }
