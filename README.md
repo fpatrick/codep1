@@ -1,12 +1,10 @@
 # In naturE
 
-overview
+Many people living in Ireland don't know how many breathtaking nature places the island have. Or don't even look at it, because it may sound difficult?
 
-![Screenshot 2022-01-28 at 12 40 39](https://user-images.githubusercontent.com/39106404/151549275-ab501115-99e9-473f-a027-675c80279de0.png)
+Like myself, many are connected all the time, living a digital life, being sedentary. But what if everyone knew how easy and accessible is he nature, the trails. How good it feels, how much their health can improve. So thats the website, a gallery of easy places to go made by a senderary digital person.
 
-## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+![3-devices-black-2](https://user-images.githubusercontent.com/39106404/151550225-867f198c-9129-46e8-ad52-3ee2206036c3.png)
 
 ### Exising Features
 
@@ -86,7 +84,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://fpatrick.github.io/codep1/
 
 
 ## Credits 
