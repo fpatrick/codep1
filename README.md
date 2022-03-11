@@ -4,50 +4,50 @@ in nature = be in nature.
 
 Ix xxxxxE = IE (Ireland)
 
-Like myself, many are connected all the time, living a digital life, being sedentary. But what if everyone knew how easy and accessible is he nature, the trails. How good it feels, how much their health can improve. So thats the website, a gallery of easy places to go made by a senderary digital person.
+Like myself, many are connected all the time, living a digital life, being sedentary. But what if everyone knew how easy and accessible is nature, the trails. How good it feels, how much their health can improve. So that's the website, a gallery of easy places to go made by a sedentary digital person.
 
-In naturE is a direct to the point with a minimal information of places like in a restaurant menu. It is a "hybrid" blogstyle website with a overview of places I visited and can reccomend or not, primarily for sedentary or starters.
+In naturE is direct to the point with minimal information of places like in a restaurant menu. It is a "hybrid" blog-style website with an overview of places I visited and can recommend or not, primarily for sedentary or starters.
 
 ![3-devices-black-2](https://user-images.githubusercontent.com/39106404/151550225-867f198c-9129-46e8-ad52-3ee2206036c3.png)
 
-The colors follow a rust color pallet https://colors.dopely.top/palettes/o4cMvI0G7sX that remind of nature, vegetation, forest.
+The colors follow a rust color pallet https://colors.dopely.top/palettes/o4cMvI0G7sX that reminds us of nature, vegetation, forest.
 
-### Exising Features
+### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all four pages, includes links to Home page and Counties. It is identical in each page to allow for easy navigation.
+  - Featured on all four pages, including links to the Home page and Counties. It is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Screenshot 2022-01-28 at 12 59 51](https://user-images.githubusercontent.com/39106404/151560179-47219173-9305-4976-8ee3-3112e1ed774c.png)
+  ![Screenshot 2022-01-28 at 12 59 51](https://user-images.githubusercontent.com/39106404/151560179-47219173-9305-4976-8ee3-3112e1ed774c.png)
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to catch the attention to the name and have a modern minimalistic design. 
-  - The background image have a transparency overlay with the same color as the body to be consistent and looking the whole as one.
+  - The background image has a transparency overlay with the same color as the body to be consistent and look the whole as one.
 
-![Screenshot 2022-01-28 at 13 00 02](https://user-images.githubusercontent.com/39106404/151560173-7c1b09d1-e8dc-41d1-b656-624e11783e82.png)
+  ![Screenshot 2022-01-28 at 13 00 02](https://user-images.githubusercontent.com/39106404/151560173-7c1b09d1-e8dc-41d1-b656-624e11783e82.png)
 
 - __Mental Benefits section__
 
-  - This section will allow the user to see some benefits the contact the nature can provide.
-  - It have a rounded background as pills, each one leading to a healthier life. 
+  - This section will allow the user to see some benefits the contact nature can provide.
+  - It has a rounded background as pills, each one leading to a healthier life. 
 
-![Screenshot 2022-01-28 at 13 00 16](https://user-images.githubusercontent.com/39106404/151560156-8a01a401-32d7-43d8-83da-3f5465b9a9aa.png)
+  ![Screenshot 2022-01-28 at 13 00 16](https://user-images.githubusercontent.com/39106404/151560156-8a01a401-32d7-43d8-83da-3f5465b9a9aa.png)
 
 - __The Footer and Links__ 
 
-  - The section over the footer includes links to the counties, so the user will learn where he can go if get lost down the page.
-  - The footer have a email contact, developer name and year.
+  - The section over the footer includes links to the counties, so the user will learn where he can go if gets lost down the page.
+  - The footer has an email contact, developer name, and year.
 
-![Screenshot 2022-01-28 at 13 00 23](https://user-images.githubusercontent.com/39106404/151560148-240940b6-1f57-4367-be6e-7503761cf40a.png)
+  ![Screenshot 2022-01-28 at 13 00 23](https://user-images.githubusercontent.com/39106404/151560148-240940b6-1f57-4367-be6e-7503761cf40a.png)
 
 - __Counties Pages__
 
-  - The counties pages will provide quick informations and overview of attractions. 
+  - The counties pages will provide quick pieces of information and an overview of attractions. 
   - This section is valuable to the user as they will be able to easily see what is available like in a restaurant menu. 
 
-![Screenshot 2022-01-28 at 13 00 50](https://user-images.githubusercontent.com/39106404/151560140-ed65b4b3-e5aa-4ae5-a100-60eea81b72a7.png)
+  ![Screenshot 2022-01-28 at 13 00 50](https://user-images.githubusercontent.com/39106404/151560140-ed65b4b3-e5aa-4ae5-a100-60eea81b72a7.png)
 
 ### Features Left to Implement
 
@@ -57,7 +57,7 @@ The colors follow a rust color pallet https://colors.dopely.top/palettes/o4cMvI0
 
 ## Testing 
 
-In the real mobile test it had a bug where the right side had a big empty space. It was fixed adding overflow-x: hidden; for the html and body elements in CSS. 
+In the real mobile test, it had a bug where the right side had a big empty space. It was fixed by adding overflow-x: hidden; for the HTML and body elements in CSS. 
 
 
 ### Validator Testing 
@@ -87,5 +87,5 @@ The live link can be found here - https://fpatrick.github.io/codep1/
 ### Content 
 
 - Mental health benefits text for the home page was taken from https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/
-- Some informattions about trails was taken from https://.alltrails.com
+- Some information about trails was taken from https://.alltrails.com
 - All the icons were taken from [Font Awesome](https://fontawesome.com/)
